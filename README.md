@@ -30,14 +30,14 @@ Projeto em PHP que consome uma API fake para exibir **comidas** e **restaurantes
 
 Coloque o projeto dentro da pasta htdocs do XAMPP:
 
-Aperte Run em Apache
+C:\xampp\htdocs\PHPSite
 
-C:\xampp\htdocs\taquara-delivery
-
-Inicie o servidor Apache no XAMPP
+Aperte Run em Apache em XAMPP
 
 Acesse no navegador:
 
 http://localhost/PHPSite
+
+Pronto!!!
 
 
