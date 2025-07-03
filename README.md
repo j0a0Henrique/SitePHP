@@ -27,19 +27,16 @@ Projeto em PHP que consome uma API fake para exibir **comidas** e **restaurantes
 1. **Clone o repositório**:
 
 ```bash
-git clone https://github.com/seu-usuario/taquara-delivery.git
 
 Coloque o projeto dentro da pasta htdocs do XAMPP:
 
-makefile
+Aperte Run em Apache
 
 C:\xampp\htdocs\taquara-delivery
 
 Inicie o servidor Apache no XAMPP
 
 Acesse no navegador:
-
-arduino
 
 http://localhost/PHPSite
 
